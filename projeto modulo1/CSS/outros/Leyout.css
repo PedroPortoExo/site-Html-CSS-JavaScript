@@ -1,0 +1,68 @@
+#topo {
+    margin-top:-20px;
+    width:1080px;
+    margin-left:20px;
+}
+#dd1{margin-top:-20px;}
+#topo2 {
+    margin-left:66%;
+    margin-top:-60px;
+}
+label{
+    float:left;
+}
+#isearch{
+    background-color: rgba(1, 29, 35, 0.373);
+    width:150px;
+    color: rgb(10, 133, 255);
+    margin-top:2px;
+    margin-left:4px;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.615);
+    background-image:url(../pagina\ principal/imagens/Rei.jpg);
+    background-size:cover;
+    width:100%;
+    height:130px;
+}
+span{
+    color:white;
+}
+h1,h2,h3 {
+    color: aqua;
+}
+a{
+    text-decoration:none;
+}
+.link{
+   line-height:-20px;
+   padding-left:15px;
+}
+.link:hover{
+    color: rgb(52, 107, 236);
+}
+.link1{
+    line-height:-20px;
+    padding-left:15px;
+ }
+ body{
+    background-image:url(../pagina\ principal/imagens/R.png);
+    background-size:cover;
+    background-attachment:fixed;
+}
+#final{
+    margin-top:20px;
+    background-color: black;
+    position: absolute;
+    margin-bottom:0px;
+    width:99%;
+}
+.ifooter{
+    padding-left:60px;
+    width:150px;
+    height:40px;
+    margin-left:60px;
+}
+#ifoot1{
+    margin-left:-60px;
+}
